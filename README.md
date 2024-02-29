@@ -1,4 +1,4 @@
-Assignment 1 README
+Assignment 1 
 Overview
 This repository contains materials for Assignment 1, focusing on AIMD (Additive Increase Multiplicative Decrease) parameters in high-speed networking. The assignment involves numerical experiments, a report, and code submission.
 
@@ -25,23 +25,3 @@ Summary of key insights and conclusions.
 Appendix:
 
 Attach code, preferably as a Jupyter Notebook PDF.
-2. Code
-Attach the experimentation code to the repository.
-
-Code Language
-Use any programming language for implementation.
-
-Grading Criteria
-Report Presentation (30%):
-
-Clarity and organization.
-Adherence to the page limit.
-Technical Novelty (50%):
-
-Incremental work on AIMD.
-Novelty in AIMD tuning and scalability.
-Exploration of AI/ChatGPT for TCP engineering.
-Experimentation (20%):
-
-Soundness and scalability of experiments.
-Code readability and correctness.

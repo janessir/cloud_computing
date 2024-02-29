@@ -1,4 +1,4 @@
-<h1>Assignment 1<h1><br>
+<h1>Assignment 1<h1>
 To submit:
 
 - Report (not more than 5 pages) in Word/ [Latex](https://www.overleaf.com/)
